@@ -1,1 +1,1 @@
-# Doing a cours on REACT 2022 at Udemy!
+# Doing a course on REACT 2022 at Udemy!
