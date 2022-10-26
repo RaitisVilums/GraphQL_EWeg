@@ -4,14 +4,7 @@ import Navigation from "./routes/navigation/navigation.components";
 import Authentication from "./routes/authentication/authentication.component";
 
 import Home from "./routes/home/home.component";
-
-const Shop = () => {
-  return (
-    <div>
-      <h1>This is the shop</h1>
-    </div>
-  );
-};
+import Shop from "./routes/shop/shop.component";
 
 const App = () => {
   return (
